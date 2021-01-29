@@ -14,7 +14,7 @@ Originally we planned on making the compartment on the side and it would slide o
 ## Finished Project
 
 ## Servo Code 
-This is not the offical servo code but it is a start.[Servo Code](https://create.arduino.cc/editor/rgabram93/1ecdbab5-daf2-4df3-809b-e3f6be188656)
+This is not the offical servo code but it is a start. [Servo Code](https://create.arduino.cc/editor/rgabram93/1ecdbab5-daf2-4df3-809b-e3f6be188656)
 ## Opening Mechanism CAD File
 
 ## Box CAD File 
