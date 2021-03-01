@@ -16,7 +16,7 @@ Originally we planned on making the compartment on the side and it would slide o
 ## Servo Code 
 Complete Psuedo Code. [Servo Code](https://create.arduino.cc/editor/rgabram93/1ecdbab5-daf2-4df3-809b-e3f6be188656)
 ## Finished Circuit
-
+![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/Circuit.PNG)
 ## Opening Mechanism CAD File
 
 ## Box CAD File 
