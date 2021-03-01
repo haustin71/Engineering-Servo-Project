@@ -13,8 +13,39 @@ Originally we planned on making the compartment on the side and it would slide o
 
 ## Finished Project
 
-## Servo Code 
-Complete Psuedo Code. [Servo Code](https://create.arduino.cc/editor/rgabram93/1ecdbab5-daf2-4df3-809b-e3f6be188656)
+## Psuedo Code 
+```C++
+#include <Servo.h>
+Servo myServo;
+const int buttonPin1 = 7; // Pin for the Button #1
+const int buttonPin2 = 6; // Pin for the button #2
+const int servoPin = 9; //Pin for the Servo
+int buttonState1 = 0;
+int buttonState2 = 0;
+int pos;
+void setup() {
+  Serial.begin(9600);
+  pinMode(7, INPUT);
+  pinMode(6, INPUT);
+  myServo.attach(9); // attaching the servo to the pin
+}
+
+void loop() {
+  buttonState1 = digitalRead(buttonPin1);
+  buttonState2 = digitalRead(buttonPin2);
+  if (buttonState1 == HIGH && pos < 180) {
+    myServo.write(pos++);
+    Serial.println("Button 1 is on");
+  }
+  if (buttonState2 == HIGH && pos > 0) {
+    myServo.write(pos--);
+    Serial.println("Button 2 is on");
+  }
+
+
+
+}
+```
 ## Finished Circuit
 ![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/Circuit.PNG)
 ## Opening Mechanism CAD File
