@@ -20,7 +20,7 @@ Complete Psuedo Code. [Servo Code](https://create.arduino.cc/editor/rgabram93/1e
 ## Opening Mechanism CAD File
 ![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/Opening%20mechanism.PNG)
 ## Box CAD File 
-![alt text](image.jpg)
+![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/Box.PNG)
 
 ## Reflections
 
