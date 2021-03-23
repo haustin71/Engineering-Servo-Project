@@ -67,7 +67,7 @@ void loop() {
 [TinkerCAD Circuit Link](https://www.tinkercad.com/things/e483rMkaV7q-arduino-button-controlled-servo/editel)
 
 ## Final Assembly
-![alt text](file:///C:/Users/jafos/Pictures/Saved%20Pictures/Finished%20product%20in%20Onshape.PNG)
+![alt text](file:///C:/Users/jafos/Pictures/Saved%20Pictures/Inside%20Final%20Assembly.PNG)
 ## Opening Mechanism CAD File
 ![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/Opening%20mechanism.PNG)
 [Opening Mechanism Onshape File](https://cvilleschools.onshape.com/documents/5d1f498847db8aa850120bd2/w/a291190641e29b756ca564b6/e/5795a71955ee99ef2d763a24)
