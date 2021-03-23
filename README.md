@@ -65,12 +65,16 @@ void loop() {
 ## Finished Circuit
 ![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/Circuit.PNG)
 [TinkerCAD Circuit Link](https://www.tinkercad.com/things/e483rMkaV7q-arduino-button-controlled-servo/editel)
+
+## Final Assembly
+![alt text](file:///C:/Users/jafos/Pictures/Saved%20Pictures/Finished%20product%20in%20Onshape.PNG)
 ## Opening Mechanism CAD File
 ![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/Opening%20mechanism.PNG)
-[Opening Mechanism CAD File](
+[Opening Mechanism Onshape File](https://cvilleschools.onshape.com/documents/5d1f498847db8aa850120bd2/w/a291190641e29b756ca564b6/e/5795a71955ee99ef2d763a24)
 ## Box CAD File 
 ![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/Box.PNG)
-[Box CAD File](https://cvilleschools.onshape.com/documents/c06286c78337f0c5580730c4/w/975c7451cdb69a17290a3b26/e/252b33aa0cf3708a31f8a50d)
+[The Box Onshape File](https://cvilleschools.onshape.com/documents/c06286c78337f0c5580730c4/w/975c7451cdb69a17290a3b26/e/650dca3d1339b042cb35a253)
+)
 ## Reflections
 Overall we think that this project went very well but I personally think that we were a little rushed with the deadline but now we get an extension so we should finish on time. We both struggled with certain parts of the CAD and coding but we worked through those problems. We think that we work well together and when one of us had a problem we both tried to work on that problem together. Some problems that we ran into was that one of the buttons wasnt moving the servo which was fixed because the button pins were the same for both buttons so the servo only responded to the one button. The major Problem with the CAD was lining up the gear rack and the gear together with the servo and its holder. We overcame this problem by fixing the mates and adding the correct mates.  
 
