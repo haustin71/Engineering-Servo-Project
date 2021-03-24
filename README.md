@@ -12,18 +12,18 @@ Originally we planned on making the compartment on the side and it would slide o
 
 ## TimeLine
 
-1. Jan. 20th - We started our preplanning for the project
-2. Jan. 25th - we continued to preplan the opening mechanism
-3. Jan. 27th - we started working on the box and specifically the walls
-4. Feb. 1st -  We started working on the code and we finished the walls
-5. Feb. 3rd - We continued to work on the code and we started working on the opening mechanism
-6. Feb. 8th - we had to go back and fix the walls and the code
-7. Feb. 10th - we finally finished the code
-8. Feb. 15th - we fixed some minor issues with the code and the CAD
-9. Feb. 17th - we finally finished the opening mechanism code
-10. Feb. 22nd - we started assembling the CAD box parts and the opening mechanism
-11. Feb. 24th - we finished the CAD assembly and we imputted the code
-12. Mar. 1st - we updated the github and put the finishing touches on the Final Assembly
+- Jan. 20th - We started our preplanning for the project
+- Jan. 25th - we continued to preplan the opening mechanism
+- Jan. 27th - we started working on the box and specifically the walls
+- Feb. 1st - We started working on the code and we finished the walls
+- Feb. 3rd - We continued to work on the code and we started working on the opening mechanism
+- Feb. 8th - we had to go back and fix the walls and the code
+- Feb. 10th - we finally finished the code
+- Feb. 15th - we fixed some minor issues with the code and the CAD
+- Feb. 17th - we finally finished the opening mechanism code
+- Feb. 22nd - we started assembling the CAD box parts and the opening mechanism
+- Feb. 24th - we finished the CAD assembly and we imputted the code
+- Mar. 1st - we updated the github and put the finishing touches on the Final Assembly
 
 ## Finished Project
 
