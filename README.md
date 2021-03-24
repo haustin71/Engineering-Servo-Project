@@ -10,7 +10,7 @@ We used a document to preplan the project adn we used some similar designs for t
 Originally we planned on making the compartment on the side and it would slide out but that was too complicated for s to do in the time period so we decided to use a simpler design where the entire one side pops with the compartment.
 [Pre Planning Document](https://docs.google.com/document/d/17IYX1eEDWpDlWgT7lWwBEruMU07gdO1zY4ygfG1bPyM/edit)
 
-## TimeLine
+## Timeline
 
 - Jan. 20th - We started our preplanning for the project
 - Jan. 25th - we continued to preplan the opening mechanism
