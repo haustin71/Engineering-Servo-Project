@@ -26,6 +26,8 @@ Originally we planned on making the compartment on the side and it would slide o
 - Mar. 1st - we updated the github and put the finishing touches on the Final Assembly
 
 ## Finished Project
+![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/IMG_0466.JPG)
+![alt text](https://raw.githubusercontent.com/haustin71/Engineering-Servo-Project/main/IMG_0467.JPG)
 
 ## Psuedo Code 
 ```C++
